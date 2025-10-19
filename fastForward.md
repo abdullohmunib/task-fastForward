@@ -10,3 +10,4 @@ Commit fastForward.md from main branch
 
 ### 3. Buat branch baru (develop)
 Buat branch develop dan lakukan perubahan didalamnya.
+![create project](assets/3.%20create%20new%20branch%20and%20commit.png){width=70%}
