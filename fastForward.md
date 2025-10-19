@@ -15,3 +15,6 @@ Buat branch develop dan lakukan perubahan didalamnya.
 ### 4. Merge branch
 Pindah ke branch main dan lakukan merge
 ![create project](assets/4.%20Merge%20branch.png){width=70%}
+
+
+### This is tutorial three way merge
