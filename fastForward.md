@@ -17,4 +17,5 @@ Pindah ke branch main dan lakukan merge
 ![create project](assets/4.%20Merge%20branch.png){width=70%}
 
 
+### Name: Muchammad Abdulloh Munib
 ### This is tutorial three way merge
